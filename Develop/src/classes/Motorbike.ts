@@ -12,7 +12,7 @@ class Motorbike extends Vehicle {
   topSpeed: number;
   wheels: Wheel[];
 
-  constructor(started: boolean, currentSpeed: number, vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[]) {
+  constructor(vin: string, color: string, make: string, model: string, year: number, weight: number, topSpeed: number, wheels: Wheel[]) {
     super();
 
     this.vin = vin;
