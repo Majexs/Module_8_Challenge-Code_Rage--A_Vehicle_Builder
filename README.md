@@ -16,6 +16,7 @@ This project invokes the Inquirer dependency to use Object Oriented Programming 
 The Inquirer package is the only dependency necessary to install - all other files imported are in the repo.
 ## Usage
 A demonstration video is included in this README, and it will show how to use the command line to initialize the program. Navigate to the directory where the repo is stored locally, then invoke 'npm run start' and a menu will appear to either create or select a vehicle. From there, a variety of actions can be taken, some that are vehicle-type specific. Try it out yourself!
+https://drive.google.com/file/d/1zE16cujsuRRzXV1-OZfWam0pjBp3ewEh/view
 ## Credits
 This project was edited by James Swanson, but the initial template in the Typescript files comes pre-programmed by Columbia Engineering EdX Coding Bootcamp.
 ## License
